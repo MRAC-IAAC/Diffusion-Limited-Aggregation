@@ -40,9 +40,26 @@ For the constructability of the branching system, a post-DLA script has been app
 
 
 
+
+Join definition. The first step to define the joint is the creation of node openings. The segment that connects with the attached particle is replaced with a two curvature connection. Using a tween curvature component, ramifications of these curvatures are created. Finally, an extrusion in the directions of the pavilion surface is performed. The next step would be to give thickness to the structure to get a constructive component.
+
+![Principals](./doc/Presentation/06.jpg)
+
+
+
+
+Applying the script to a DLA pavilion developed with spin forces proof to not work accurately. Some modifications to the post DLA can be done to try to improve the shape obtained. However, the best approach would be to generate a DLA growth that allows for an easier rationalization of the structure.
+
+![Principals](./doc/Presentation/07.jpg)
+
+
+
+
+
+
 #### Getting Started
 
-In the folder *src* there is two folders. One Folder Contains the final files and the second one has the collection of the different experimentations that took place during this research.
+The folder *src* contains one folder with the final files and anotherone that collects all of the different experimentations that took place during this research.
 
 The folder *doc* contains: the images that appear in this post, *Presentation*; images of the different experiments, *images* and *videos*
 
@@ -68,15 +85,3 @@ https://issuu.com/ale2x72/docs/dendritic_laminar_assemblies
 
 
 
-
-
-Join definition. The first step to define the joint is the creation of node openings. The segment that connects with the attached particle is replaced with a two curvature connection. Using a tween curvature component, ramifications of these curvatures are created. Finally, an extrusion in the directions of the pavilion surface is performed. The next step would be to give thickness to the structure to get a constructive component.
-
-![Principals](./doc/Presentation/06.jpg)
-
-
-
-
-Applying the script to a DLA pavilion developed with spin forces proof to not work accurately. Some modifications to the post DLA can be done to try to improve the shape obtained. However, the best approach would be to generate a DLA growth that allows for an easier rationalization of the structure.
-
-![Principals](./doc/Presentation/07.jpg)
