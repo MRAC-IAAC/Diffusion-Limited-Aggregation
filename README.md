@@ -40,6 +40,35 @@ For the constructability of the branching system, a post-DLA script has been app
 
 
 
+#### Getting Started
+
+In the folder *src* there is two folders. One Folder Contains the final files and the second one has the collection of the different experimentations that took place during this research.
+
+The folder *doc* contains: the images that appear in this post, *Presentation*; images of the different experiments, *images* and *videos*
+
+
+#### Requirements
+
+Rhino 5 or 6
+Grasshopper
+Plugins: Galapagos | Kangaroo2 | Anemone | 
+
+
+#### References
+
+http://paulbourke.net/fractals/dla/ 
+http://toxiclibs.org/2010/02/new-package-simutils/ 
+https://issuu.com/ale2x72/docs/dendritic_laminar_assemblies 
+
+
+#### Credits
+
+*Diffusion Limited Aggregation* is a project of IaaC, Institute for Advanced Architecture of Catalonia developed in the *Masters of Robotics and Advanced Construction* in 2019/20 by Students: *Abdullah Sheikh, Andreea Bunica, Anna Batalle Garcia* Faculty: *Alessio Alessio Erioli, Eugenio Bettucchi*
+![Principals](./doc/Presentation/05.jpg)
+
+
+
+
 
 Join definition. The first step to define the joint is the creation of node openings. The segment that connects with the attached particle is replaced with a two curvature connection. Using a tween curvature component, ramifications of these curvatures are created. Finally, an extrusion in the directions of the pavilion surface is performed. The next step would be to give thickness to the structure to get a constructive component.
 
