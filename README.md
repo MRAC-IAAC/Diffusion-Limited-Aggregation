@@ -58,30 +58,25 @@ Applying the script to a DLA pavilion developed with spin forces proof to not wo
 
 
 #### Getting Started
-
 The folder *src* contains one folder with the final files and anotherone that collects all of the different experimentations that took place during this research.
-
 The folder *doc* contains: the images that appear in this post, *Presentation*; images of the different experiments, *images* and *videos*
 
 
 #### Requirements
-
 Rhino 5 or 6
 Grasshopper
 Plugins: Galapagos | Kangaroo2 | Anemone | 
 
 
 #### References
-
 http://paulbourke.net/fractals/dla/ 
 http://toxiclibs.org/2010/02/new-package-simutils/ 
 https://issuu.com/ale2x72/docs/dendritic_laminar_assemblies 
 
 
 #### Credits
-
 *Diffusion Limited Aggregation* is a project of IaaC, Institute for Advanced Architecture of Catalonia developed in the *Masters of Robotics and Advanced Construction* in 2019/20 by Students: *Abdullah Sheikh, Andreea Bunica, Anna Batalle Garcia* Faculty: *Alessio Alessio Erioli, Eugenio Bettucchi*
-![Principals](./doc/Presentation/05.jpg)
+
 
 
 
